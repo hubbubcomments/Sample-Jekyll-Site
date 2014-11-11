@@ -15,3 +15,7 @@ puts "Hello World!"
 {% endhighlight %}
 
 Note that this only provides color-coding. For that you might need to use a front end colorization engine like Highlight.JS or something similar.
+
+Comment by Tom
+--------
+Hello world!
