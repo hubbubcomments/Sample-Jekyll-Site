@@ -18,3 +18,5 @@ Note that this only provides color-coding. For that you might need to use a fron
 
 Hello world!
 Hello world!
+
+Hello world!
